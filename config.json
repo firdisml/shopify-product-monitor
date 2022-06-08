@@ -1,0 +1,21 @@
+{
+    "mongodb_uri": "",
+    "webhook_url": [
+        ""
+    ],
+    "discord_message_settings": {
+        "botImage": "https://i.imgur.com/ZOxCdZR.png",
+        "botName": "Ecommerce Shopping Assistant™",
+        "footerDescription": "Ecommerce Shopping Assistant™",
+        "footerImage": "https://i.imgur.com/ZOxCdZR.png",
+        "timeOfNotification": true
+    },
+    "requestTiming": 8000,
+    "keywords": [],
+    "sites": [
+        {
+            "url": "valiram247.com/"
+        }
+    ],
+    "proxiesList": []
+}
